@@ -1,4 +1,3 @@
-```python
 #python行星模擬器
 
 from turtle import distance
@@ -109,4 +108,3 @@ def main():
         pygame.display.update()
     pygame.quit()
 main()
-```
